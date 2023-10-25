@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.8
   - jupyterlab=3.5.2=pyhd8ed1ab_0
   - numpy=1.22.3=py38h99721a1_2
   - pandas=1.4.4=py38h47df419_0
