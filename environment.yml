@@ -89,7 +89,7 @@ dependencies:
   - ipywidgets=8.0.6=pyhd8ed1ab_0
   - jack=1.9.22=h11f4161_0
   - jedi=0.18.2=pyhd8ed1ab_0
-  - jinja2=2.11.3=pyhd8ed1ab_2
+  - jinja2=2.0=pyhd8ed1ab_2
   - jpeg=9e=h0b41bf4_3
   - json5=0.9.5=pyh9f0ad1d_0
   - jsonpatch=1.32=pyhd8ed1ab_0
@@ -191,6 +191,7 @@ dependencies:
   - mysql-libs=8.0.32=hca2cd23_2
   - nbclassic=1.0.0=pyhb4ecaf3_1
   - nbclient=0.5.13=pyhd8ed1ab_0
+  - nbconvert=6.4.4=py38h06a4308_0
   - nbformat=5.8.0=pyhd8ed1ab_0
   - ncurses=6.3=h27087fc_1
   - nest-asyncio=1.5.6=pyhd8ed1ab_0
