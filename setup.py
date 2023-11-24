@@ -20,9 +20,9 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'scripts'
 DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
-EMAIL = 'me@example.com'
-AUTHOR = 'Awesome Soul'
+URL = 'https://github.com/NicoRottcher/binder-test'
+EMAIL = 'n.roettcher@fz-juelich.de'
+AUTHOR = 'Nico Rottcher'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = None
 
