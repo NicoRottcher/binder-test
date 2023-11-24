@@ -1,6 +1,7 @@
 #!/bin/bash
 # add pythonpath
 #export PYTHONPATH=$PYTHONPATH:/home/jovyan/scripts
+python -c "import shutil; shutil.copytree(src='/home/jovyan/scripts/evaluation', dst='/srv/conda/envs/notebook/lib/python3.8/site-packages/evaluation2', dirs_exist_ok=True,)"
 
 # run matplotlib once to generate the font cache
 python -c "import matplotlib as mpl; mpl.use('Agg'); import pylab as plt; fig, ax = plt.subplots(); fig.savefig('test.png')"
